@@ -10,7 +10,7 @@ Working on **AI, Reinforcement Learning, and System Engineering**
 - **81 Technology Unit** – Tech projects & advanced training (Alumni member) 
 
 ## 🔹 Tech
-**Python, C++, Java, SQL** | **PyTorch, LangChain, PostgreSQL, AWS, Docker**  
+**Python, C++, Java, SQL** | **PyTorch, LangChain, PostgreSQL**  
 
 ## 🔹 Projects
 - **[Actor-Critic RL](https://github.com/AsafShiloah/Actor_Critic_RL)** – Multi-agent RL  
