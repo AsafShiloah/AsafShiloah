@@ -9,11 +9,14 @@ Working on **AI, Reinforcement Learning, and System Engineering**
 - **Research Assistant, Computational Cognition Lab** – Multi-agent ML research  
 - **81 Technology Unit** – Tech projects & advanced training (Alumni member) 
 
-## 🔹 Tech
-**Python, C++, Java, SQL** | **PyTorch, LangChain, PostgreSQL**  
-
-## 🔹 Projects
-- **[Actor-Critic RL](https://github.com/AsafShiloah/Actor_Critic_RL)** – Multi-agent RL  
-
-
-📫 [LinkedIn](https://www.linkedin.com/in/asaf-shiloah/) | [GitHub](https://github.com/AsafShiloah) | [Email](mailto:asafshiloah@gmail.com)
+## 🛠 Tech & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-LangChain-0052CC?logo=langchain&logoColor=white" height="25"/>
+</p>
+ 
