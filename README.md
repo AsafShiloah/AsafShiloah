@@ -1,7 +1,7 @@
 # Hi, I'm Asaf Shiloah 👋
 
 B.Sc. in **Computer Science & Cognitive and Brain Science**  
-Working on **AI, Reinforcement Learning, and System Engineering**  
+Working on **AI, Reinforcement Learning, and Software Engineering**  
 
 ## 🔹 Experience
 - **AI Researcher, Technion** – RAG for fluid mechanics, co-authored IACAS 2025 paper  
