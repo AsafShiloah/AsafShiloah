@@ -1,4 +1,4 @@
-# Hi, I'm Asaf Shiloah 👋
+# Hi, I'm Asaf Shiloah 
 
 B.Sc. in **Computer Science & Cognitive and Brain Science**  
 Working on **AI, Reinforcement Learning, and Software Engineering**  
@@ -7,9 +7,13 @@ Working on **AI, Reinforcement Learning, and Software Engineering**
 - **AI Researcher, Technion** – RAG for fluid mechanics, co-authored IACAS 2025 paper  
 - **Software Developer, McCann Digital** – Python & JS automation tools  
 - **Research Assistant, Computational Cognition Lab** – Multi-agent ML research  
-- **81 Technology Unit** – Tech projects & advanced training (Alumni member) 
+- **81 Technology Unit** – Tech projects & advanced training (Alumni member)
 
-## 🛠 Tech & Tools
+## 🔹 Projects  
+**[Full Project Details & Past Work](https://github.com/AsafShiloah/Portfolio)**  
+
+
+## 🔹 Tech & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" height="25"/>
