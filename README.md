@@ -7,7 +7,7 @@ Working on **AI, Reinforcement Learning, and System Engineering**
 - **AI Researcher, Technion** – RAG for fluid mechanics, co-authored IACAS 2025 paper  
 - **Software Developer, McCann Digital** – Python & JS automation tools  
 - **Research Assistant, Computational Cognition Lab** – Multi-agent ML research  
-- **81 Technology Unit** – Tech projects & advanced training  
+- **81 Technology Unit** – Tech projects & advanced training (Alumni member) 
 
 ## 🔹 Tech
 **Python, C++, Java, SQL** | **PyTorch, LangChain, PostgreSQL, AWS, Docker**  
